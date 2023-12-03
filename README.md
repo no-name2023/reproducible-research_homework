@@ -14,7 +14,7 @@ ii) A random seed is a starting point used in random number generating algorithm
 
 iii) 
 
-iv) Path to image of changes made to code code.edits.png 
+iv) Permalink to image of changes made to code https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png 
 
 
 ## Instructions
