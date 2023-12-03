@@ -12,7 +12,9 @@ As we can see the code has produced two random walks 'data1' and 'data2' and plo
 
 ii) A random seed is a starting point used in random number generating algorithms. It is an initial value provided to a random number generator (RNG) to ensure the sequence it produces is reproducible. It can also be used in psuedorandom number generators (PRNG) which produce a sequence of values that appear to be random according to specified statistical tests. If you start with the same random seed in a RNG or a PRNG you will generate the same sequence of numbers. This works because a random number generating program or algorithm uses a seed to produce a sequence of numbers, so if the seed is the same the sequence will always come out the same. If a different seed is used then the sequence of numbers produced will be different. Using a fixed seed ensures reproducibility which is important when the same sequence of random numbers is needed. 
 
-iii) 
+iii) Permalink to new code: https://github.com/zoe-george/reproducible-research_homework/blob/8adb0093dc0c0e8f06d539915606fc85c03d003d/question-4-code/random_walk.R   
+
+Permalink to graph generated from the reproducible simulation of Brownian motion: 
 
 iv) Permalink to image of changes made to code https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png 
 
