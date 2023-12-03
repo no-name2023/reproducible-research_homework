@@ -21,6 +21,10 @@ iv) Here is an image to show the changes I made to my code in order to make a re
 
 ![Image to show the chnages made to my code](https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png)
 
+## Question 5
+
+i) This data has 13 columns and 33 rows
+
 
 ## Instructions
 
