@@ -25,6 +25,8 @@ iv) Here is an image to show the changes I made to my code in order to make a re
 
 i) This data has 13 columns and 33 rows
 
+ii) I performed a logarithmic transformation of this data in order to make it linear: 
+
 
 ## Instructions
 
