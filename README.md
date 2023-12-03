@@ -1,15 +1,5 @@
 # Reproducible research: version control and R
 
-# Questions 1/2/3 
-
-https://github.com/zoe-george/logistic_growth 
-
-# Question 4 
-
-After executing the code provided in the `question-4-code` folder of this repo I managed to produce this plot:
-
-As we can see the code has produced two random walks 'data1' and 'data2' and plotted them next to each other. The random walk is represented as a sequence of points in a 2D space starting at (0,0) and then taking steps in random directions at each time point. In this case, the number of steps has been set to 500 so the time also goes from 1 to 500. At each time point, the walker takes steps of a fixed length (0.25) and the direction is determined by a random angle. The colour of the line represents the progression of time going from darker blue at time 0 to light blue at time 500. From the plots we can see that in the 'data1' walk the walker has a general trajectory in the positive direction on the x-axis and the negative direction on the y-axis. In this case the walker starts of taking steps around 0 on the x-axis but moving up and down. It then starts to move right and down and ends up around the coordinate (6,-6). As expected the random walk produced by 'data2' is very different to this. In this case the walker starts by going in the negative x-direction and the positive y-direction. It then begins to go in the positive x-direction while still going in the positive y-direction. It finally ends up on a roughly negative direction on both axes and ends around the coordiantes (-2,4). So as we can see these two random walks have produced very different trajectories overall which is to be expected because the movement is stochastic. 
-
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
