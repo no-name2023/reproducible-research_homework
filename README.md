@@ -16,7 +16,7 @@ iii) Permalink to new code: https://github.com/zoe-george/reproducible-research_
 
 Permalink to graph generated from the reproducible simulation of Brownian motion: https://github.com/zoe-george/reproducible-research_homework/blob/824e0b36e0855be916fbf22ae8d5e39047a228af/randomseed.pdf 
 
-iv) Permalink to image of changes made to code https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png 
+iv) ![Image to show the chnages made to my code](https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png)
 
 
 ## Instructions
