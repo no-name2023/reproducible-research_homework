@@ -6,7 +6,9 @@ https://github.com/zoe-george/logistic_growth
 
 # Question 4 
 
-After executing the code provided in the `question-4-code` folder of this repo I managed to produce this plot: 
+After executing the code provided in the `question-4-code` folder of this repo I managed to produce this plot:
+
+As we can see the code has produced two random walks 'data1' and 'data2' and plotted them next to each other. The random walk is represented as a sequence of points in a 2D space starting at (0,0) and then taking steps in random directions at each time point. In this case, the number of steps has been set to 500 so the time also goes from 1 to 500. 
 
 ## Instructions
 
