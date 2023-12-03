@@ -1,5 +1,27 @@
 # Reproducible research: version control and R
 
+
+## Questions 1/2/3 
+
+https://github.com/zoe-george/logistic_growth 
+
+## Question 4 
+
+i) After executing the code provided in the `question-4-code` folder of this repo I managed to produce this plot: https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/randomwalk.pdf
+
+As we can see the code has produced two random walks 'data1' and 'data2' and plotted them next to each other. The random walk is represented as a sequence of points in a 2D space starting at (0,0) and then taking steps in random directions at each time point. In this case, the number of steps has been set to 500 so the time also goes from 1 to 500. At each time point, the walker takes steps of a fixed length (0.25) and the direction is determined by a random angle. The colour of the line represents the progression of time going from darker blue at time 0 to light blue at time 500. From the plots we can see that in the 'data1' walk the walker has a general trajectory in the positive direction on the x-axis and the negative direction on the y-axis. In this case the walker starts of taking steps around 0 on the x-axis but moving up and down. It then starts to move right and down and ends up around the coordinate (6,-6). As expected the random walk produced by 'data2' is very different to this. In this case the walker starts by going in the negative x-direction and the positive y-direction. It then begins to go in the positive x-direction while still going in the positive y-direction. It finally ends up on a roughly negative direction on both axes and ends around the coordiantes (-2,4). So as we can see these two random walks have produced very different trajectories overall which is to be expected because the movement is stochastic. If you run the code again you get two different random walks. 
+
+ii) A random seed is a starting point used in random number generating algorithms. It is an initial value provided to a random number generator (RNG) to ensure the sequence it produces is reproducible. It can also be used in psuedorandom number generators (PRNG) which produce a sequence of values that appear to be random according to specified statistical tests. If you start with the same random seed in a RNG or a PRNG you will generate the same sequence of numbers. This works because a random number generating program or algorithm uses a seed to produce a sequence of numbers, so if the seed is the same the sequence will always come out the same. If a different seed is used then the sequence of numbers produced will be different. Using a fixed seed ensures reproducibility which is important when the same sequence of random numbers is needed. 
+
+iii) Permalink to new code: https://github.com/zoe-george/reproducible-research_homework/blob/8adb0093dc0c0e8f06d539915606fc85c03d003d/question-4-code/random_walk.R   
+
+Permalink to graph generated from the reproducible simulation of Brownian motion: https://github.com/zoe-george/reproducible-research_homework/blob/824e0b36e0855be916fbf22ae8d5e39047a228af/randomseed.pdf 
+
+iv) Here is an image to show the changes I made to my code in order to make a reproducible simulation of Brownian motion: 
+
+![Image to show the chnages made to my code](https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png)
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
