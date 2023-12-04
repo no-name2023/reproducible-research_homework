@@ -52,7 +52,15 @@ Below is the graph that I made:
 
 ![Graph to show log transformed virion volume vs genome length](https://github.com/zoe-george/reproducible-research_homework/blob/3a220da146fc9992201169fc776499e5b1d8ff17/reproduced%20figure.png) 
 
+v) I can calcualte an estimate for the volume of a 300 kb dsDNA virus using the formula **$`V = \beta L^{\alpha}`$**: 
 
+($\alpha$) = 1.515228
+
+($\beta$) = 1181.807 
+
+L = 300
+
+V = 
 
 ## Instructions
 
