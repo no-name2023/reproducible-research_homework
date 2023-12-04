@@ -39,6 +39,7 @@ ii) I performed a logarithmic transformation of this data in order to make it li
 iii) Using the allometric law for dsDNA viruses I found that: 
 
 The exponent ($\alpha$) = 1.515228 
+
 The scaling factor ($\beta$) = 1181.807 
 
 
