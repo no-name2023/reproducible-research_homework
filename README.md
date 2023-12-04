@@ -18,7 +18,10 @@ ii) A random seed is a starting point used in random number generating algorithm
 
 iii) Permalink to new code: https://github.com/zoe-george/reproducible-research_homework/blob/8adb0093dc0c0e8f06d539915606fc85c03d003d/question-4-code/random_walk.R   
 
-Permalink to graph generated from the reproducible simulation of Brownian motion: https://github.com/zoe-george/reproducible-research_homework/blob/824e0b36e0855be916fbf22ae8d5e39047a228af/randomseed.pdf 
+Below is the graph generated from the reproducible simulation of Brownian motion: 
+
+#### Graph to show reproducible simulation of Brownian motion when two random seeds are chosen
+![Image to show the graph produced when two random seeds are chosen](https://github.com/zoe-george/reproducible-research_homework/blob/62de569b1d2a9f2adda9ab75d4d26afb7b1ae7f3/random%20seed%20graph.png)
 
 iv) Here is an image to show the changes I made to my code in order to make a reproducible simulation of Brownian motion: 
 
