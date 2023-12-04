@@ -47,7 +47,7 @@ As both of these p-values are very small I would conclude that these results are
 iv) Here is the link to the code I wrote to reproduce the graph shown: https://github.com/zoe-george/reproducible-research_homework/blob/6182834a61702bfb9e83a835e186e2491ee5ae8a/question5_code.R 
 
 Below is the graph that I made: 
-![Graph to show log transformed virion volume vs genome length](
+![Graph to show log transformed virion volume vs genome length](https://github.com/zoe-george/reproducible-research_homework/blob/3a220da146fc9992201169fc776499e5b1d8ff17/reproduced%20figure.png) 
 
 
 # check these are the right way round 
