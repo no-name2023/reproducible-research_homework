@@ -36,6 +36,13 @@ ii) I performed a logarithmic transformation of this data in order to make it li
 #### Graph to show log transformed virion volume vs genome length
 ![Graph to show log transformed virion volume vs genome length](https://github.com/zoe-george/reproducible-research_homework/blob/6595a81c5ac2112b25e74476beacd28baae425c4/Log%20transformed%20virion%20volume%20vs%20genome%20length%20.png)
 
+iii) Using the allometric law for dsDNA viruses I found that: 
+
+The exponent ($\alpha$) = 1.515228 
+The scaling factor ($\beta$) = 1181.807 
+
+
+
 
 ## Instructions
 
