@@ -38,10 +38,13 @@ ii) I performed a logarithmic transformation of this data in order to make it li
 
 iii) Using the allometric law for dsDNA viruses I found that: 
 
-The exponent ($\alpha$) = 1.515228 
+The exponent ($\alpha$) = 1.515228 with a p-value of  6.438498e-10 
 
-The scaling factor ($\beta$) = 1181.807 
+The scaling factor ($\beta$) = 1181.807 with a p-value of 2.279645e-10
 
+As both of these p-values are very small I would conclude that these results are statistically significant and there is strong evidence to allow us to reject the null hypothesis. The numbers that I obtained are consistent with those found in Table 2 of the paper as they found ($\alpha$) to be 1.52 and ($\beta$) to be 1182. 
+
+# check these are the right way round 
 
 
 
