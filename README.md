@@ -60,7 +60,7 @@ v) I can calcualte an estimate for the volume of a 300 kb dsDNA virus using the 
 
 L = 300
 
-V = 
+V = 1181.807 x 300^{\1.515228}
 
 ## Instructions
 
