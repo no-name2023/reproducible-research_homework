@@ -44,6 +44,12 @@ The scaling factor ($\beta$) = 1181.807 with a p-value of 2.279645e-10
 
 As both of these p-values are very small I would conclude that these results are statistically significant and there is strong evidence to allow us to reject the null hypothesis. The numbers that I obtained are consistent with those found in Table 2 of the paper as they found ($\alpha$) to be 1.52 and ($\beta$) to be 1182. 
 
+iv) Here is the link to the code I wrote to reproduce the graph shown: https://github.com/zoe-george/reproducible-research_homework/blob/6182834a61702bfb9e83a835e186e2491ee5ae8a/question5_code.R 
+
+Below is the graph that I made: 
+![Graph to show log transformed virion volume vs genome length](
+
+
 # check these are the right way round 
 
 
