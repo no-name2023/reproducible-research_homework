@@ -8,7 +8,7 @@ https://github.com/zoe-george/logistic_growth
 ## Question 4 
 
 i) After executing the code provided in the `question-4-code` folder of this repo I managed to produce this plot: 
-![Image to show the graph with the two random walks](![Image to show the chnages made to my code](https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/code.edits.png))
+![Image to show the graph with the two random walks](https://github.com/zoe-george/reproducible-research_homework/blob/f6f7c808f62419562acab79ed97c3bd7cdd62a0c/random%20walk%20graph.png)
 
 https://github.com/zoe-george/reproducible-research_homework/blob/bf9bbe3b07d7c837b2b39e49cf630c2c10e8c462/randomwalk.pdf
 
