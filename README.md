@@ -66,6 +66,10 @@ V = 6698076
 
 So the estimated volume of a 300 kb dsDNA virus is 6698076. 
 
+## Bonus question 
+
+Reproducibility and replicability are similar concepts in scientific research, but they are related to different aspects of the scientific process. Reproducibility refers to the ability of a tool or method to obtain the same results when rerun by different researchers on different occasions. It is crucial for ensuring the validity and reliability of scientific findings because if others can reproduce the results it enhances confidence in the findings. Replicability, on the other hand, refers to the ability to consistently achieve the same results when a study is independently repeated. The experiment can be repeated using different data or experimental conditions and by different researchersors but the same results should be obtained. Replicability is important because it allows generalization of scientific findings and allows robust conslusions to be drawn. 
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
