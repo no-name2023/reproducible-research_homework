@@ -3,7 +3,7 @@
 
 ## Questions 1/2/3 
 
-https://github.com/zoe-george/logistic_growth 
+https://github.com/no-name2023/logistic_growth
 
 ## Question 4 
 
