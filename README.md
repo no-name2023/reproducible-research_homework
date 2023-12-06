@@ -34,7 +34,7 @@ i) This data has 13 columns and 33 rows
 ii) I performed a logarithmic transformation of this data in order to make it linear and produced this graph: 
 
 #### Graph to show log transformed virion volume vs genome length
-![Graph to show log transformed virion volume vs genome length](https://github.com/zoe-george/reproducible-research_homework/blob/6595a81c5ac2112b25e74476beacd28baae425c4/Log%20transformed%20virion%20volume%20vs%20genome%20length%20.png)
+![Graph to show log transformed virion volume vs genome length](https://github.com/no-name2023/reproducible-research_homework/blob/9affac2994c666bc93ed2aac21c47cf2ef497f40/Log%20transformed%20virion%20volume%20vs%20genome%20length%20.png)
 
 iii) Using the allometric law for dsDNA viruses I found that: 
 
