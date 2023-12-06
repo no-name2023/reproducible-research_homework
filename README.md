@@ -21,7 +21,7 @@ iii) Permalink to new code: https://github.com/zoe-george/reproducible-research_
 Below is the graph generated from the reproducible simulation of Brownian motion: 
 
 #### Graph to show reproducible simulation of Brownian motion when two random seeds are chosen
-![Image to show the graph produced when two random seeds are chosen](https://github.com/zoe-george/reproducible-research_homework/blob/62de569b1d2a9f2adda9ab75d4d26afb7b1ae7f3/random%20seed%20graph.png)
+![Image to show the graph produced when two random seeds are chosen](https://github.com/no-name2023/reproducible-research_homework/blob/f3ec089a3385435b6e87a5ca6b722d5cfb468eb5/random%20seed%20graph.png)
 
 iv) Here is an image to show the changes I made to my code in order to make a reproducible simulation of Brownian motion: 
 
