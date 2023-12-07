@@ -48,8 +48,8 @@ As both of these p-values are very small I would conclude that these results are
 
 iv) Here is the link to the full code I wrote to reproduce the graph shown: https://github.com/no-name2023/reproducible-research_homework/blob/511a41063a35cf5c069f7dc046a5f576d5351a25/question5_code.R 
 
-```{r}
 # Recreating the scatter plot shown in question 5
+```{r}
 ggplot(virus_data, aes(x = log(genome_length), y = log(virion_volumes))) +
   geom_point() +  
   geom_smooth(method = "lm", se = TRUE, color = "blue", fill = "lightgrey") +  # Add blue line of best fit with shaded error bracket
